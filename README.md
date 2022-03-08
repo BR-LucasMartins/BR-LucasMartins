@@ -25,7 +25,7 @@
   </a>
   <a href="https://twitter.com/lucasvl78" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "lukas.vinicios87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lukas.vinicios87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-vinicios-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5531994047139&text=Ol%C3%A1%2C%20Vim%20pelo%20seu%20Github!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%FFFFFF?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a> 
    
